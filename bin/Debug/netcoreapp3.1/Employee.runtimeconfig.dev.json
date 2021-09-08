@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sutesh\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sutesh\\.nuget\\packages"
+    ]
+  }
+}
